@@ -1,2 +1,2 @@
 # DS-Hons
-Data Science Honors Practical Assignments
+SPPU Data Science Honors Practical Assignments
