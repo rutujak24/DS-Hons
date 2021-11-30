@@ -1,0 +1,2 @@
+https://www.kaggle.com/crawford/emnist?select=emnist-letters-train.csv
+https://www.kaggle.com/crawford/emnist?select=emnist-letters-test.csv
